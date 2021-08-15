@@ -1,0 +1,18 @@
+.bg-color{
+    background-color:#264653;
+}
+.btn-my{
+    background-color:#E76F51;
+}
+.btn-myy{
+    color: #E76F51;
+}
+.aline{
+    text-align: center;
+}
+.grayscale{
+    filter: grayscale(100%)
+}
+.star{
+   background-color:white;
+}
